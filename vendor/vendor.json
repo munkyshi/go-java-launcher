@@ -10,6 +10,24 @@
 			"revisionTime": "2016-11-17T07:43:51Z"
 		},
 		{
+			"checksumSHA1": "59BwJlcQLSn/4yKRL8R2xhKCwog=",
+			"path": "github.com/keybase/go-ps",
+			"revision": "668c8856d9992f97248b3177d45743d2cc1068db",
+			"revisionTime": "2016-10-05T17:59:11Z"
+		},
+		{
+			"checksumSHA1": "KNf4CdZexyFjpEugzBv3b7YJs4U=",
+			"path": "github.com/keybase/go-ps/darwincgo",
+			"revision": "668c8856d9992f97248b3177d45743d2cc1068db",
+			"revisionTime": "2016-10-05T17:59:11Z"
+		},
+		{
+			"checksumSHA1": "DVXnx4zyb0wkeIdIRjwjvR7Dslo=",
+			"path": "github.com/mitchellh/go-ps",
+			"revision": "e2d21980687ce16e58469d98dcee92d27fbbd7fb",
+			"revisionTime": "2016-08-22T16:54:47Z"
+		},
+		{
 			"path": "github.com/palantir/go-java-launcher/launchlib",
 			"revision": ""
 		},
